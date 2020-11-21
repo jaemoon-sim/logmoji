@@ -1,4 +1,4 @@
 ## Usage
 ```
-git log | python test.py
+git log | python logmoji.py
 ```
