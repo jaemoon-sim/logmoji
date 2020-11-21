@@ -1,6 +1,6 @@
 ## Setup
 ```
-./setup.sh
+source setup.sh
 ```
 
 ## Usage
